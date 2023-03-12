@@ -1,0 +1,6 @@
+Los invencibles, 1, 1, 1, 1, 0, 0, 0
+Vista de aguila, 1, 1, 1, 1, 1, 1, 0
+Los multizona, 1, 1, 1, 1, 1, 1, 1
+Fuerza aerea, 1, 0, 0, 0, 0, 0, 0
+Los speedracer, 1, 1, 1, 1, 1, 0, 0
+Los Bachacos, 1, 1, 1, 0, 0, 0, 0
